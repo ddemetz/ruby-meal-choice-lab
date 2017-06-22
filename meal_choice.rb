@@ -7,8 +7,6 @@ end
 
 def breakfast(food="eggs and a kiwi")
     "#{food}"
-def dinner(food="sushi")
-    "#{food}"
 end
 def lunch(food="chipotle")
     "#{food}"
